@@ -1,0 +1,6 @@
+/** Votre premier programme Java */
+class programme {
+public static void main (String[] args){
+System.out.println("Hello World");
+}
+}
